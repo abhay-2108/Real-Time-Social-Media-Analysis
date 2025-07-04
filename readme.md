@@ -1,7 +1,6 @@
 
 
-````markdown
-# 📊 Real-Time Social Media Analysis Dashboard
+# Real-Time Social Media(You Tube) Analysis Dashboard
 
 A full-stack web application to **analyze, visualize, and monitor YouTube video performance** in real time. Built using **Flask**, **MongoDB**, and **Chart.js**, this dashboard fetches video data from your database and presents insights like views, likes, sentiment, engagement, and more in a clean, interactive UI — helping you track content performance with ease.
 
@@ -20,8 +19,11 @@ A full-stack web application to **analyze, visualize, and monitor YouTube video 
 ---
 
 ## 🖼️ Demo Preview
+![image](https://github.com/user-attachments/assets/c6e19e68-f208-44d0-98df-7745cdc35853)
 
+![image](https://github.com/user-attachments/assets/758fea4e-a963-485b-be38-a4ed06c6b35b)
 
+![image](https://github.com/user-attachments/assets/bb303559-bcef-45ce-877d-d7cb0af25c54)
 
 ---
 
@@ -91,8 +93,6 @@ Visit: [http://localhost:5000](http://localhost:5000)
 * 📅 Published Day, Time, Month
 * ⏳ Last Data Fetched
 
----
----
 
 ## 📄 License
 
